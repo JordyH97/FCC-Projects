@@ -1,0 +1,46 @@
+body {
+  background-color: #13151f;
+  color: white;
+  font-family: "Gill Sans Extrabold", sans-serif;
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+}
+
+h3 {
+  text-align: center;
+}
+
+img {
+  margin-left: auto;
+  margin-right: auto;
+  height: auto;
+  max-width: 100%;
+  display: block;
+}
+
+#image {
+  display: block;
+}
+
+#img-caption {
+  text-align: center;
+  font-size: 25px;
+  color: white;
+}
+
+.tribute-info {
+  text-align: left;
+}
+
+a {
+  color:cyan;
+}
+
+.quote {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
